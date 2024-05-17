@@ -8,17 +8,17 @@
 	>
 
 <channel>
-	<title>Raski &#8211; harigathanaraski</title>
+	<title>Raski &#8211; PT Harigatha Naraski</title>
 	<atom:link href="https://rahmattriandi.github.io/pthgn/author/raski/feed/" rel="self" type="application/rss+xml" />
 	<link>https://rahmattriandi.github.io/pthgn</link>
-	<description></description>
+	<description>Building It Better In Concrete</description>
 	<lastBuildDate>Thu, 21 Mar 2024 05:37:52 +0000</lastBuildDate>
 	<language>id</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
 	<item>
 		<title>Halo dunia!</title>
 		<link>https://rahmattriandi.github.io/pthgn/halo-dunia/</link>

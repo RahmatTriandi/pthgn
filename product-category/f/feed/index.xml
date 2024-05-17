@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>F &#8211; PT Harigatha Naraski</title>
+	<atom:link href="https://rahmattriandi.github.io/pthgn/product-category/f/feed/" rel="self" type="application/rss+xml" />
+	<link>https://rahmattriandi.github.io/pthgn</link>
+	<description>Building It Better In Concrete</description>
+	<lastBuildDate>Mon, 06 May 2024 08:02:30 +0000</lastBuildDate>
+	<language>id</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<item>
+		<title>France Compressor, Friatech Rheinhutte, Fisher Rosemount, FMC, Foxboro, Fuji Electric, Fuji Seiki</title>
+		<link>https://rahmattriandi.github.io/pthgn/product/france-compressor-friatech-rheinhutte-fisher-rosemount-fmc-foxboro-fuji-electric-fuji-seiki/</link>
+					<comments>https://rahmattriandi.github.io/pthgn/product/france-compressor-friatech-rheinhutte-fisher-rosemount-fmc-foxboro-fuji-electric-fuji-seiki/#respond</comments>
+		
+		<dc:creator><![CDATA[Raski]]></dc:creator>
+		<pubDate>Mon, 06 May 2024 08:02:30 +0000</pubDate>
+				<guid isPermaLink="false">https://rahmattriandi.github.io/pthgn/?post_type=product#038;p=1025</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://rahmattriandi.github.io/pthgn/product/france-compressor-friatech-rheinhutte-fisher-rosemount-fmc-foxboro-fuji-electric-fuji-seiki/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
